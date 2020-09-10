@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimalFight</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_name">Animal Fight</string>
+    <string name="start_game">Play </string>
+    <string name="about_us">About Us</string>
+    <string name="exit">Exit</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="title_activity_enter_user_name">enter_user_name</string>
+    <string name="title_activity_about__us">About_US</string>
+    <string name="aboutus_contain">There are three kinds of animals which The role: There are three kinds of animals which The role:
+    here are three kinds of animals which mouse , cat and elephant.The cat can be crumpled by the elephant. However,
+    mouse can beat  the  elephant.</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="StartGame">Start Game</string>
+    <string name="title_activity_animal_fight">AnimalFight</string>
+    <string name="mouse">Mouse</string>
+    <string name="cat">Cat</string>
+    <string name="elephant">Elephant</string>
+    <string name="computer">Computer</string>
+    <string name="statusMsg">Select your animal</string>
+    <string name="round">Round:</string>
+    <string name="winner">CPU</string>
+    <string name="gameresult">YOU</string>
+    <string name="winner_resultdisplay">0</string>
+    <string name="winnerresult">---</string>
+    <string name="roundcount">0</string>
+    <string name="title_activity_user_name">UserName</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_prefs">Prefs</string>
+    <string name="music_title1">Music</string>
+    <string name="music_summary1">Play background music</string>
+    <string name="sound_title1">Sound</string>
+    <string name="sound_summary1">Turn on-off  the phone sound</string>
+    <string name="title_activity_background_music">Background_music</string>
+    <string name="title_activity_drawing">Drawing</string>
+
+</resources>
